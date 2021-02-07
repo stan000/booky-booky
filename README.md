@@ -13,4 +13,4 @@ written in React with a firebase backend. (Soon to be uploaded)
 
 Booky-booky was developed as a project for a in house competition at DSC MSU
 Idea from Patrick Zvenyika and Team Booky-booky
-Developed by Stan Mpakati
+Developed by Stan Mpakati in November 2020
